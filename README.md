@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7"/>.
 ## Hi there, I'm Zakir  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="50">&nbsp;
 ### About Me:
-I am a CSE student at <b>Metropolitan University Bangladesh</b>, with a strong interest in Blockchain, Artificial Intelligence, and Machine Learning.
+I am a CSE student at <b>Metropolitan University Bangladesh</b>, with a strong interest in Blockchain, Artificial Intelligence and in Cloud Architecture.
 
 I enjoy building innovative projects that leverage cutting-edge technologies and exploring practical applications of AI and decentralized systems. 
 Passionate about problem-solving and continuous learning, I actively contribute to open-source projects and strive to create solutions that are both efficient and impactful.
