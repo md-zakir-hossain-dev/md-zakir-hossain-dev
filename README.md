@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Zakir 👋
 
-<!--
-**md-zakir-hossain-dev/md-zakir-hossain-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" alt="animated-gif" width="200px" />
+</p>
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 Computer Science & Engineering student
+- 💡 Interested in problem-solving, algorithms, and software development
+- 🚀 Using GitHub to learn and build projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Currently Learning
+- C / C++
+- Python
+- Data Structures
